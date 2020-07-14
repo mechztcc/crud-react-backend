@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alberto Paiva2",
+      "email": "alberto@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Daniel alves",
+      "email": "daniel@email.com"
+    },
+    {
+      "name": "TestadorAnonimo",
+      "email": "Teste@email.com",
+      "id": 3
+    }
+  ]
+}
